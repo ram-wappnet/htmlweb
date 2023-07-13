@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.tr3zor.app",
+    "sha256_cert_fingerprints":
+    ["08:39:0B:BA:A8:47:3C:85:53:F0:59:00:DE:55:46:9B:9E:F8:44:47:74:0E:9F:32:88:AD:8B:79:75:22:81:2B"]
+  }
+}]
