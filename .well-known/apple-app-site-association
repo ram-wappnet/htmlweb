@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "5S2NTX8YT9.io.tr3zor.dapp",
+        "appID": ["5S2NTX8YT9.io.tr3zor.dapp"],
         "paths": ["/register/"]
       }
     ]
